@@ -1,5 +1,5 @@
 # Spotify
-## Java, Java Swing, SQL
+#### Java, Java Swing, SQL
 
 Group project developed by 4 people.
 
