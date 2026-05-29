@@ -1,7 +1,7 @@
 # Spotify
 #### Java, Java Swing, SQL
 
-Group project developed by 4 people.
+Group project developed by 5 people.
 
 ## Main Features
 Developed a Spotify-like music application with a user-friendly interface built using Java Swing.
